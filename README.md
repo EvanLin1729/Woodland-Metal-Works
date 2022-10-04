@@ -1,8 +1,8 @@
 # Woodland Metal Works Project
 
 ### Team 3
-Ervin, Kayo, and Gavin
-
+Ervin, Kayo, and Gavin <br>
+Mr. Cullen
 
 ## Resources
 * [Git and GitHub for beginners](https://youtu.be/tRZGeaHPoaw)
